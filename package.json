@@ -1,0 +1,17 @@
+{
+  "name": "business",
+  "version": "1.0.0",
+  "description": "Reads business listings from directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sridhar",
+   "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "alexa-sdk"  : "latest"
+  },
+  "license": "ISC"
+}
